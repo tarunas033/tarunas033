@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at     <a href="https://tarunas033.github.io/">Portfolio</a>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CO_LJNerbL7JKf-ZexWRtHEzx72kpEiw/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Brdh_LiyzYyv_ueo_VZN76CM8FX5RY2v/view?usp=share_link)
 
 
 
